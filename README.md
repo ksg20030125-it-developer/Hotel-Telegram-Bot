@@ -3,9 +3,9 @@
 A comprehensive hotel management system built on Telegram platform with AI-powered features, multi-language support, and integrated communication channels.
 
 ## 📞 Support
-Name: Jovan Ilic
-WhatsApp:+381621407098
-Telegram:@jovan91
+- Name: Jovan Ilic
+- WhatsApp:+381621407098
+- Telegram:@jovan91
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
